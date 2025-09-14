@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(129, 172, 183);
+}
+
+.tabela{
+    border: 3px solid black;
+    background-color: rgb(52, 165, 42);
+    width: 50%;
+}
+
+th{
+    border: 3px solid;
+    border-color: rgb(255, 1, 1);
+    background-color: blue;
+}
+tr{
+    border: 10px solid;
+    border-color: black;
+}
+.tabela td{
+    border: 3px solid;
+    border-color: rgb(249, 9, 9);
+    background-color: rgb(43, 125, 226);
+}
